@@ -1,0 +1,2 @@
+include ':app', ':apt-sdk', ':apt-annotation', ':apt-processor'
+rootProject.name='AptSample'
