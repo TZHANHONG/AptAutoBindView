@@ -1,0 +1,2 @@
+# AptAutoBindView
+使用apt技术实现自动查找view的id
